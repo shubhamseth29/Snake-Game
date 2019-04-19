@@ -1,0 +1,15 @@
+#mycanvas
+{
+    width: 1000px;
+    height: 500px;
+    margin-left: 12%;
+    margin-right: 10%;
+    margin-top: 5%;
+    /* margin-bottom: 10%; */
+    border: 5px solid yellow;
+    background-color: black;
+}
+body
+{
+    background-image: url(snake.jpg);
+}
